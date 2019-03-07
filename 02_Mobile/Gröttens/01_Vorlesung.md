@@ -140,3 +140,74 @@ Eher schwierig sich zu schützen, da nicht bemerkbar und gezielter
 - Monkey wrench / havoc
 - Defense-in-depth
 
+
+## Vulnerabilites
+
+- Software vulnerabilities
+- Technical vulnerabilities
+
+### Typical Bugs
+
+- user downloads files
+- User selects software to open file
+- Software parses file
+- Bug => malicious code exec.
+
+Common bugs include problems in the parsing or erenderling logic, or scripting func supported by the doc format in combination with an interpreter that is insufficiently sandboxed
+
+### Data and code
+
+![](source/img/2019-03-01-09-57-23.png)
+
+### Vulnerability timeline
+![](source/img/2019-03-01-10-00-57.png)
+
+
+## Skynet
+
+### Cloud Anayltic Building Blocks
+
+- Travel Patterns
+- Behavior-Based Analytics
+- Other Enrichments
+  - Travel on particular days of the week
+  - Co-travelers
+  - Similar travel patterns
+  - Common contacts
+  - ...
+
+From GSM metadata we can measure aspects of each selector's pattern of life...
+
+Statistical algorithms are able to find the couries at very low false alarm rates.
+
+### Random Forest Classifier
+
+![Random Forest Classifier](source/img/2019-03-01-12-58-43.png)
+
+
+### Anonymity
+
+A user’s action is anonymous if the adversary cannot link the action to the user’s identity.
+
+### The user's identity
+
+- real name
+- fingerprint
+- passport number
+- ip adress
+- MAC adress
+- login name
+- ...
+
+![](source/img/2019-03-01-13-10-37.png)
+
+### Entropy
+
+![Entropy Calc example](source/img/2019-03-01-13-26-01.png)
+
+### Onion Routing
+
+//TODO
+
+
+### Tor - How it Works
