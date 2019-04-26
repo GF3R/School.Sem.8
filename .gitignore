@@ -1,2 +1,6 @@
 /01_InfoSeminar/Informatik_Seminar/
 *.lnk
+
+node_modules
+
+GPS_Data
